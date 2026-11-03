@@ -1,0 +1,43 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local databases and generated data
+*.db
+*.sqlite
+*.sqlite3
+data/chroma_db/
+data/uploads/
+data/memory.db
+
+# Model weights and checkpoints
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Secrets and local configuration
+secrets/

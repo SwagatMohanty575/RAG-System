@@ -1,0 +1,958 @@
+{
+  "source_file": "The_Hargrave_Mystery_Enhanced.pdf",
+  "entities": {
+    "THE HARGRAVE": {
+      "name": "THE HARGRAVE",
+      "mentions": 1,
+      "pages": [
+        1
+      ],
+      "chapters": []
+    },
+    "Leon Marlowe": {
+      "name": "Leon Marlowe",
+      "mentions": 2,
+      "pages": [
+        2,
+        11
+      ],
+      "chapters": [
+        "CHAPTER ONE",
+        "CHAPTER TWO"
+      ]
+    },
+    "INHERITANCE CHAPTER": {
+      "name": "INHERITANCE CHAPTER",
+      "mentions": 1,
+      "pages": [
+        2
+      ],
+      "chapters": [
+        "CHAPTER ONE"
+      ]
+    },
+    "For Mr": {
+      "name": "For Mr",
+      "mentions": 1,
+      "pages": [
+        2
+      ],
+      "chapters": [
+        "CHAPTER ONE"
+      ]
+    },
+    "ONE The": {
+      "name": "ONE The",
+      "mentions": 1,
+      "pages": [
+        2
+      ],
+      "chapters": [
+        "CHAPTER ONE"
+      ]
+    },
+    "Telegram The": {
+      "name": "Telegram The",
+      "mentions": 1,
+      "pages": [
+        2
+      ],
+      "chapters": [
+        "CHAPTER ONE"
+      ]
+    },
+    "THE DARK": {
+      "name": "THE DARK",
+      "mentions": 1,
+      "pages": [
+        2
+      ],
+      "chapters": [
+        "CHAPTER ONE"
+      ]
+    },
+    "PART ONE": {
+      "name": "PART ONE",
+      "mentions": 1,
+      "pages": [
+        2
+      ],
+      "chapters": [
+        "CHAPTER ONE"
+      ]
+    },
+    "Baker Street": {
+      "name": "Baker Street",
+      "mentions": 2,
+      "pages": [
+        2,
+        27
+      ],
+      "chapters": [
+        "CHAPTER ONE",
+        "CHAPTER SEVEN"
+      ]
+    },
+    "Elmwood Hall": {
+      "name": "Elmwood Hall",
+      "mentions": 5,
+      "pages": [
+        3,
+        4,
+        11,
+        19,
+        20
+      ],
+      "chapters": [
+        "CHAPTER FIVE",
+        "CHAPTER ONE",
+        "CHAPTER TWO"
+      ]
+    },
+    "Clara Langdon": {
+      "name": "Clara Langdon",
+      "mentions": 8,
+      "pages": [
+        3,
+        4,
+        18,
+        19,
+        20,
+        24,
+        25
+      ],
+      "chapters": [
+        "CHAPTER FIVE",
+        "CHAPTER ONE",
+        "CHAPTER SEVEN",
+        "CHAPTER SIX"
+      ]
+    },
+    "Inspector Clara": {
+      "name": "Inspector Clara",
+      "mentions": 5,
+      "pages": [
+        3,
+        18,
+        19,
+        24,
+        25
+      ],
+      "chapters": [
+        "CHAPTER FIVE",
+        "CHAPTER ONE",
+        "CHAPTER SEVEN",
+        "CHAPTER SIX"
+      ]
+    },
+    "Victor Hargrave": {
+      "name": "Victor Hargrave",
+      "mentions": 11,
+      "pages": [
+        3,
+        4,
+        5,
+        8,
+        9,
+        11,
+        14,
+        17,
+        19,
+        25,
+        26
+      ],
+      "chapters": [
+        "CHAPTER FIVE",
+        "CHAPTER FOUR",
+        "CHAPTER ONE",
+        "CHAPTER SEVEN",
+        "CHAPTER THREE",
+        "CHAPTER TWO"
+      ]
+    },
+    "The Metropolitan": {
+      "name": "The Metropolitan",
+      "mentions": 1,
+      "pages": [
+        4
+      ],
+      "chapters": [
+        "CHAPTER ONE"
+      ]
+    },
+    "Ashworth": {
+      "name": "Ashworth",
+      "mentions": 2,
+      "pages": [
+        6,
+        9
+      ],
+      "chapters": [
+        "CHAPTER ONE",
+        "CHAPTER TWO"
+      ]
+    },
+    "Catherine Hargrave": {
+      "name": "Catherine Hargrave",
+      "mentions": 4,
+      "pages": [
+        6,
+        11,
+        16,
+        26
+      ],
+      "chapters": [
+        "CHAPTER FOUR",
+        "CHAPTER ONE",
+        "CHAPTER SEVEN",
+        "CHAPTER TWO"
+      ]
+    },
+    "Lady Ashworth": {
+      "name": "Lady Ashworth",
+      "mentions": 2,
+      "pages": [
+        6,
+        9
+      ],
+      "chapters": [
+        "CHAPTER ONE",
+        "CHAPTER TWO"
+      ]
+    },
+    "Adrian Sinclair": {
+      "name": "Adrian Sinclair",
+      "mentions": 3,
+      "pages": [
+        6,
+        16,
+        26
+      ],
+      "chapters": [
+        "CHAPTER FOUR",
+        "CHAPTER ONE",
+        "CHAPTER SEVEN"
+      ]
+    },
+    "Lady Catherine": {
+      "name": "Lady Catherine",
+      "mentions": 3,
+      "pages": [
+        6,
+        9,
+        16
+      ],
+      "chapters": [
+        "CHAPTER FOUR",
+        "CHAPTER ONE",
+        "CHAPTER TWO"
+      ]
+    },
+    "SILVER CROWN": {
+      "name": "SILVER CROWN",
+      "mentions": 1,
+      "pages": [
+        7
+      ],
+      "chapters": [
+        "CHAPTER ONE"
+      ]
+    },
+    "Inspector Langdon": {
+      "name": "Inspector Langdon",
+      "mentions": 7,
+      "pages": [
+        7,
+        9,
+        12,
+        13,
+        15,
+        16,
+        23
+      ],
+      "chapters": [
+        "CHAPTER FOUR",
+        "CHAPTER ONE",
+        "CHAPTER SIX",
+        "CHAPTER THREE",
+        "CHAPTER TWO"
+      ]
+    },
+    "At St": {
+      "name": "At St",
+      "mentions": 1,
+      "pages": [
+        7
+      ],
+      "chapters": [
+        "CHAPTER ONE"
+      ]
+    },
+    "The Hargrave": {
+      "name": "The Hargrave",
+      "mentions": 2,
+      "pages": [
+        7,
+        27
+      ],
+      "chapters": [
+        "CHAPTER ONE",
+        "CHAPTER SEVEN"
+      ]
+    },
+    "Langdon": {
+      "name": "Langdon",
+      "mentions": 7,
+      "pages": [
+        7,
+        9,
+        12,
+        13,
+        15,
+        16,
+        23
+      ],
+      "chapters": [
+        "CHAPTER FOUR",
+        "CHAPTER ONE",
+        "CHAPTER SIX",
+        "CHAPTER THREE",
+        "CHAPTER TWO"
+      ]
+    },
+    "Secrets Sleep": {
+      "name": "Secrets Sleep",
+      "mentions": 1,
+      "pages": [
+        8
+      ],
+      "chapters": [
+        "CHAPTER TWO"
+      ]
+    },
+    "CHAPTER TWO": {
+      "name": "CHAPTER TWO",
+      "mentions": 1,
+      "pages": [
+        8
+      ],
+      "chapters": [
+        "CHAPTER TWO"
+      ]
+    },
+    "The Study": {
+      "name": "The Study",
+      "mentions": 1,
+      "pages": [
+        8
+      ],
+      "chapters": [
+        "CHAPTER TWO"
+      ]
+    },
+    "Kensington Road": {
+      "name": "Kensington Road",
+      "mentions": 1,
+      "pages": [
+        9
+      ],
+      "chapters": [
+        "CHAPTER TWO"
+      ]
+    },
+    "The Ashworths": {
+      "name": "The Ashworths",
+      "mentions": 1,
+      "pages": [
+        9
+      ],
+      "chapters": [
+        "CHAPTER TWO"
+      ]
+    },
+    "Lord Ashworth": {
+      "name": "Lord Ashworth",
+      "mentions": 1,
+      "pages": [
+        9
+      ],
+      "chapters": [
+        "CHAPTER TWO"
+      ]
+    },
+    "Before Marlowe": {
+      "name": "Before Marlowe",
+      "mentions": 1,
+      "pages": [
+        10
+      ],
+      "chapters": [
+        "CHAPTER TWO"
+      ]
+    },
+    "Ellen Porter": {
+      "name": "Ellen Porter",
+      "mentions": 9,
+      "pages": [
+        11,
+        12,
+        13,
+        15,
+        16,
+        18,
+        19,
+        20,
+        25
+      ],
+      "chapters": [
+        "CHAPTER FIVE",
+        "CHAPTER FOUR",
+        "CHAPTER SEVEN",
+        "CHAPTER THREE",
+        "CHAPTER TWO"
+      ]
+    },
+    "Henry Hargrave": {
+      "name": "Henry Hargrave",
+      "mentions": 2,
+      "pages": [
+        12,
+        19
+      ],
+      "chapters": [
+        "CHAPTER FIVE",
+        "CHAPTER THREE"
+      ]
+    },
+    "The Physician": {
+      "name": "The Physician",
+      "mentions": 1,
+      "pages": [
+        12
+      ],
+      "chapters": [
+        "CHAPTER THREE"
+      ]
+    },
+    "Fall That": {
+      "name": "Fall That",
+      "mentions": 1,
+      "pages": [
+        12
+      ],
+      "chapters": [
+        "CHAPTER THREE"
+      ]
+    },
+    "CHAPTER THREE": {
+      "name": "CHAPTER THREE",
+      "mentions": 1,
+      "pages": [
+        12
+      ],
+      "chapters": [
+        "CHAPTER THREE"
+      ]
+    },
+    "The Rembrandt": {
+      "name": "The Rembrandt",
+      "mentions": 1,
+      "pages": [
+        13
+      ],
+      "chapters": [
+        "CHAPTER THREE"
+      ]
+    },
+    "If Hargrave": {
+      "name": "If Hargrave",
+      "mentions": 1,
+      "pages": [
+        13
+      ],
+      "chapters": [
+        "CHAPTER THREE"
+      ]
+    },
+    "The Vermeer": {
+      "name": "The Vermeer",
+      "mentions": 1,
+      "pages": [
+        13
+      ],
+      "chapters": [
+        "CHAPTER THREE"
+      ]
+    },
+    "Edwin Phelps": {
+      "name": "Edwin Phelps",
+      "mentions": 3,
+      "pages": [
+        13,
+        20,
+        26
+      ],
+      "chapters": [
+        "CHAPTER FIVE",
+        "CHAPTER SEVEN",
+        "CHAPTER THREE"
+      ]
+    },
+    "Amelia Quinn": {
+      "name": "Amelia Quinn",
+      "mentions": 3,
+      "pages": [
+        14,
+        16,
+        26
+      ],
+      "chapters": [
+        "CHAPTER FOUR",
+        "CHAPTER SEVEN",
+        "CHAPTER THREE"
+      ]
+    },
+    "CHAPTER FOUR": {
+      "name": "CHAPTER FOUR",
+      "mentions": 1,
+      "pages": [
+        15
+      ],
+      "chapters": [
+        "CHAPTER FOUR"
+      ]
+    },
+    "Passage The": {
+      "name": "Passage The",
+      "mentions": 1,
+      "pages": [
+        15
+      ],
+      "chapters": [
+        "CHAPTER FOUR"
+      ]
+    },
+    "ALIBIS CRUMBLE": {
+      "name": "ALIBIS CRUMBLE",
+      "mentions": 1,
+      "pages": [
+        15
+      ],
+      "chapters": [
+        "CHAPTER FOUR"
+      ]
+    },
+    "The Hidden": {
+      "name": "The Hidden",
+      "mentions": 1,
+      "pages": [
+        15
+      ],
+      "chapters": [
+        "CHAPTER FOUR"
+      ]
+    },
+    "PART TWO": {
+      "name": "PART TWO",
+      "mentions": 1,
+      "pages": [
+        15
+      ],
+      "chapters": [
+        "CHAPTER FOUR"
+      ]
+    },
+    "But Adrian": {
+      "name": "But Adrian",
+      "mentions": 1,
+      "pages": [
+        16
+      ],
+      "chapters": [
+        "CHAPTER FOUR"
+      ]
+    },
+    "In Adrian": {
+      "name": "In Adrian",
+      "mentions": 1,
+      "pages": [
+        16
+      ],
+      "chapters": [
+        "CHAPTER FOUR"
+      ]
+    },
+    "The Hargraves": {
+      "name": "The Hargraves",
+      "mentions": 1,
+      "pages": [
+        18
+      ],
+      "chapters": [
+        "CHAPTER FIVE"
+      ]
+    },
+    "CHAPTER FIVE": {
+      "name": "CHAPTER FIVE",
+      "mentions": 1,
+      "pages": [
+        18
+      ],
+      "chapters": [
+        "CHAPTER FIVE"
+      ]
+    },
+    "The Tightening": {
+      "name": "The Tightening",
+      "mentions": 1,
+      "pages": [
+        18
+      ],
+      "chapters": [
+        "CHAPTER FIVE"
+      ]
+    },
+    "Samuel Brentwood": {
+      "name": "Samuel Brentwood",
+      "mentions": 4,
+      "pages": [
+        18,
+        19,
+        24,
+        25
+      ],
+      "chapters": [
+        "CHAPTER FIVE",
+        "CHAPTER SEVEN",
+        "CHAPTER SIX"
+      ]
+    },
+    "Scotland Yard": {
+      "name": "Scotland Yard",
+      "mentions": 1,
+      "pages": [
+        19
+      ],
+      "chapters": [
+        "CHAPTER FIVE"
+      ]
+    },
+    "Even Dr": {
+      "name": "Even Dr",
+      "mentions": 1,
+      "pages": [
+        20
+      ],
+      "chapters": [
+        "CHAPTER FIVE"
+      ]
+    },
+    "And Victor": {
+      "name": "And Victor",
+      "mentions": 2,
+      "pages": [
+        20,
+        21
+      ],
+      "chapters": [
+        "CHAPTER FIVE"
+      ]
+    },
+    "But Marlowe": {
+      "name": "But Marlowe",
+      "mentions": 1,
+      "pages": [
+        21
+      ],
+      "chapters": [
+        "CHAPTER FIVE"
+      ]
+    },
+    "Hunted Marlowe": {
+      "name": "Hunted Marlowe",
+      "mentions": 1,
+      "pages": [
+        22
+      ],
+      "chapters": [
+        "CHAPTER SIX"
+      ]
+    },
+    "SIX The": {
+      "name": "SIX The",
+      "mentions": 1,
+      "pages": [
+        22
+      ],
+      "chapters": [
+        "CHAPTER SIX"
+      ]
+    },
+    "TRAP CHAPTER": {
+      "name": "TRAP CHAPTER",
+      "mentions": 1,
+      "pages": [
+        22
+      ],
+      "chapters": [
+        "CHAPTER SIX"
+      ]
+    },
+    "Hunter Becomes": {
+      "name": "Hunter Becomes",
+      "mentions": 1,
+      "pages": [
+        22
+      ],
+      "chapters": [
+        "CHAPTER SIX"
+      ]
+    },
+    "THE FACTORY": {
+      "name": "THE FACTORY",
+      "mentions": 1,
+      "pages": [
+        22
+      ],
+      "chapters": [
+        "CHAPTER SIX"
+      ]
+    },
+    "PART THREE": {
+      "name": "PART THREE",
+      "mentions": 1,
+      "pages": [
+        22
+      ],
+      "chapters": [
+        "CHAPTER SIX"
+      ]
+    },
+    "Unveiling The": {
+      "name": "Unveiling The",
+      "mentions": 1,
+      "pages": [
+        25
+      ],
+      "chapters": [
+        "CHAPTER SEVEN"
+      ]
+    },
+    "CHAPTER SEVEN": {
+      "name": "CHAPTER SEVEN",
+      "mentions": 1,
+      "pages": [
+        25
+      ],
+      "chapters": [
+        "CHAPTER SEVEN"
+      ]
+    },
+    "And Catherine": {
+      "name": "And Catherine",
+      "mentions": 1,
+      "pages": [
+        26
+      ],
+      "chapters": [
+        "CHAPTER SEVEN"
+      ]
+    },
+    "Assistant Commissioner": {
+      "name": "Assistant Commissioner",
+      "mentions": 1,
+      "pages": [
+        26
+      ],
+      "chapters": [
+        "CHAPTER SEVEN"
+      ]
+    },
+    "EPILOGUE The": {
+      "name": "EPILOGUE The",
+      "mentions": 1,
+      "pages": [
+        26
+      ],
+      "chapters": [
+        "CHAPTER SEVEN"
+      ]
+    },
+    "But Dr": {
+      "name": "But Dr",
+      "mentions": 1,
+      "pages": [
+        26
+      ],
+      "chapters": [
+        "CHAPTER SEVEN"
+      ]
+    },
+    "Next Door": {
+      "name": "Next Door",
+      "mentions": 1,
+      "pages": [
+        26
+      ],
+      "chapters": [
+        "CHAPTER SEVEN"
+      ]
+    },
+    "From Edinburgh": {
+      "name": "From Edinburgh",
+      "mentions": 1,
+      "pages": [
+        27
+      ],
+      "chapters": [
+        "CHAPTER SEVEN"
+      ]
+    },
+    "THE END": {
+      "name": "THE END",
+      "mentions": 1,
+      "pages": [
+        28
+      ],
+      "chapters": [
+        "CHAPTER SEVEN"
+      ]
+    }
+  },
+  "aliases": {
+    "leon marlowe": "Leon Marlowe",
+    "leon": "Leon Marlowe",
+    "inheritance chapter": "INHERITANCE CHAPTER",
+    "inheritance": "INHERITANCE CHAPTER",
+    "for mr": "For Mr",
+    "for": "For Mr",
+    "mr": "For Mr",
+    "one the": "ONE The",
+    "telegram the": "Telegram The",
+    "telegram": "Telegram The",
+    "the dark": "THE DARK",
+    "dark": "THE DARK",
+    "part one": "PART ONE",
+    "baker street": "Baker Street",
+    "baker": "Baker Street",
+    "street": "Baker Street",
+    "hall": "Elmwood Hall",
+    "elmwood": "Elmwood Hall",
+    "elmwood hall": "Elmwood Hall",
+    "clara langdon": "Clara Langdon",
+    "inspector clara": "Inspector Clara",
+    "victor hargrave": "Victor Hargrave",
+    "metropolitan": "The Metropolitan",
+    "the metropolitan": "The Metropolitan",
+    "catherine hargrave": "Catherine Hargrave",
+    "lady ashworth": "Lady Ashworth",
+    "adrian sinclair": "Adrian Sinclair",
+    "sinclair": "Adrian Sinclair",
+    "lady catherine": "Lady Catherine",
+    "crown": "SILVER CROWN",
+    "silver": "SILVER CROWN",
+    "silver crown": "SILVER CROWN",
+    "inspector langdon": "Inspector Langdon",
+    "at": "At St",
+    "at st": "At St",
+    "st": "At St",
+    "secrets": "Secrets Sleep",
+    "sleep": "Secrets Sleep",
+    "secrets sleep": "Secrets Sleep",
+    "chapter two": "CHAPTER TWO",
+    "the study": "The Study",
+    "study": "The Study",
+    "kensington road": "Kensington Road",
+    "road": "Kensington Road",
+    "kensington": "Kensington Road",
+    "the ashworths": "The Ashworths",
+    "ashworths": "The Ashworths",
+    "lord": "Lord Ashworth",
+    "lord ashworth": "Lord Ashworth",
+    "before marlowe": "Before Marlowe",
+    "before": "Before Marlowe",
+    "ellen porter": "Ellen Porter",
+    "porter": "Ellen Porter",
+    "ellen": "Ellen Porter",
+    "henry hargrave": "Henry Hargrave",
+    "henry": "Henry Hargrave",
+    "the physician": "The Physician",
+    "physician": "The Physician",
+    "that": "Fall That",
+    "fall": "Fall That",
+    "fall that": "Fall That",
+    "chapter three": "CHAPTER THREE",
+    "rembrandt": "The Rembrandt",
+    "the rembrandt": "The Rembrandt",
+    "if": "If Hargrave",
+    "if hargrave": "If Hargrave",
+    "the vermeer": "The Vermeer",
+    "vermeer": "The Vermeer",
+    "edwin phelps": "Edwin Phelps",
+    "edwin": "Edwin Phelps",
+    "phelps": "Edwin Phelps",
+    "amelia quinn": "Amelia Quinn",
+    "amelia": "Amelia Quinn",
+    "quinn": "Amelia Quinn",
+    "four": "CHAPTER FOUR",
+    "chapter four": "CHAPTER FOUR",
+    "passage the": "Passage The",
+    "passage": "Passage The",
+    "crumble": "ALIBIS CRUMBLE",
+    "alibis crumble": "ALIBIS CRUMBLE",
+    "alibis": "ALIBIS CRUMBLE",
+    "the hidden": "The Hidden",
+    "hidden": "The Hidden",
+    "part two": "PART TWO",
+    "but adrian": "But Adrian",
+    "in": "In Adrian",
+    "in adrian": "In Adrian",
+    "the hargraves": "The Hargraves",
+    "hargraves": "The Hargraves",
+    "chapter five": "CHAPTER FIVE",
+    "five": "CHAPTER FIVE",
+    "the tightening": "The Tightening",
+    "tightening": "The Tightening",
+    "samuel brentwood": "Samuel Brentwood",
+    "brentwood": "Samuel Brentwood",
+    "samuel": "Samuel Brentwood",
+    "scotland yard": "Scotland Yard",
+    "scotland": "Scotland Yard",
+    "yard": "Scotland Yard",
+    "even": "Even Dr",
+    "even dr": "Even Dr",
+    "and victor": "And Victor",
+    "but marlowe": "But Marlowe",
+    "hunted": "Hunted Marlowe",
+    "hunted marlowe": "Hunted Marlowe",
+    "six": "SIX The",
+    "six the": "SIX The",
+    "trap chapter": "TRAP CHAPTER",
+    "trap": "TRAP CHAPTER",
+    "hunter": "Hunter Becomes",
+    "becomes": "Hunter Becomes",
+    "hunter becomes": "Hunter Becomes",
+    "factory": "THE FACTORY",
+    "the factory": "THE FACTORY",
+    "part three": "PART THREE",
+    "unveiling": "Unveiling The",
+    "unveiling the": "Unveiling The",
+    "chapter seven": "CHAPTER SEVEN",
+    "seven": "CHAPTER SEVEN",
+    "and catherine": "And Catherine",
+    "assistant commissioner": "Assistant Commissioner",
+    "commissioner": "Assistant Commissioner",
+    "assistant": "Assistant Commissioner",
+    "epilogue the": "EPILOGUE The",
+    "epilogue": "EPILOGUE The",
+    "but dr": "But Dr",
+    "door": "Next Door",
+    "next": "Next Door",
+    "next door": "Next Door",
+    "from": "From Edinburgh",
+    "from edinburgh": "From Edinburgh",
+    "edinburgh": "From Edinburgh",
+    "the end": "THE END",
+    "end": "THE END"
+  }
+}

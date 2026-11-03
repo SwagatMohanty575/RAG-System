@@ -1,0 +1,148 @@
+{
+  "source_file": "The_Hargrave_Mystery_Enhanced.pdf",
+  "total_pages": 28,
+  "chapter_count": 7,
+  "chapters": [
+    {
+      "number": 1,
+      "label": "CHAPTER ONE",
+      "title": "The Telegram",
+      "part": "PART ONE",
+      "start_page": 2,
+      "end_page": 7,
+      "page_count": 6
+    },
+    {
+      "number": 2,
+      "label": "CHAPTER TWO",
+      "title": "The Study's Secrets",
+      "part": "PART ONE",
+      "start_page": 8,
+      "end_page": 11,
+      "page_count": 4
+    },
+    {
+      "number": 3,
+      "label": "CHAPTER THREE",
+      "title": "The Physician's Fall",
+      "part": "PART ONE",
+      "start_page": 12,
+      "end_page": 14,
+      "page_count": 3
+    },
+    {
+      "number": 4,
+      "label": "CHAPTER FOUR",
+      "title": "The Hidden Passage",
+      "part": "PART TWO",
+      "start_page": 15,
+      "end_page": 17,
+      "page_count": 3
+    },
+    {
+      "number": 5,
+      "label": "CHAPTER FIVE",
+      "title": "The Tightening Noose",
+      "part": "PART TWO",
+      "start_page": 18,
+      "end_page": 21,
+      "page_count": 4
+    },
+    {
+      "number": 6,
+      "label": "CHAPTER SIX",
+      "title": "The Hunter Becomes the Hunted",
+      "part": "PART TWO",
+      "start_page": 22,
+      "end_page": 24,
+      "page_count": 3
+    },
+    {
+      "number": 7,
+      "label": "CHAPTER SEVEN",
+      "title": "Unveiling",
+      "part": "PART TWO",
+      "start_page": 25,
+      "end_page": 28,
+      "page_count": 4
+    }
+  ],
+  "parts": [
+    {
+      "title": "PART ONE",
+      "chapters": [
+        {
+          "number": 1,
+          "label": "CHAPTER ONE",
+          "title": "The Telegram",
+          "part": "PART ONE",
+          "start_page": 2,
+          "end_page": 7,
+          "page_count": 6
+        },
+        {
+          "number": 2,
+          "label": "CHAPTER TWO",
+          "title": "The Study's Secrets",
+          "part": "PART ONE",
+          "start_page": 8,
+          "end_page": 11,
+          "page_count": 4
+        },
+        {
+          "number": 3,
+          "label": "CHAPTER THREE",
+          "title": "The Physician's Fall",
+          "part": "PART ONE",
+          "start_page": 12,
+          "end_page": 14,
+          "page_count": 3
+        }
+      ]
+    },
+    {
+      "title": "PART TWO",
+      "chapters": [
+        {
+          "number": 4,
+          "label": "CHAPTER FOUR",
+          "title": "The Hidden Passage",
+          "part": "PART TWO",
+          "start_page": 15,
+          "end_page": 17,
+          "page_count": 3
+        },
+        {
+          "number": 5,
+          "label": "CHAPTER FIVE",
+          "title": "The Tightening Noose",
+          "part": "PART TWO",
+          "start_page": 18,
+          "end_page": 21,
+          "page_count": 4
+        },
+        {
+          "number": 6,
+          "label": "CHAPTER SIX",
+          "title": "The Hunter Becomes the Hunted",
+          "part": "PART TWO",
+          "start_page": 22,
+          "end_page": 24,
+          "page_count": 3
+        },
+        {
+          "number": 7,
+          "label": "CHAPTER SEVEN",
+          "title": "Unveiling",
+          "part": "PART TWO",
+          "start_page": 25,
+          "end_page": 28,
+          "page_count": 4
+        }
+      ]
+    }
+  ],
+  "epilogue_pages": [
+    28
+  ]
+}
